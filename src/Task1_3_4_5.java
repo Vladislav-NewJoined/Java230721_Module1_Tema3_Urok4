@@ -20,7 +20,6 @@ class ConcatStrings {
         System.out.print("Строка 2: " + this.str2 + "\n");
         System.out.print("Строка 3: " + this.str3 + "\n");
         System.out.print("Итоговая строка: \n");
-//        System.out.println(this.str1 + " " + this.str2 + " " + this.str3);
         String concftenated = this.str1 + " " + this.str2 + " " + this.str3;
         System.out.println(concftenated);
     }
